@@ -34,7 +34,7 @@ export default function Home() {
                 LinkedIn
               </a>
               {"). "}
-              I blend my differentiated experience working in Forward Deployed Engineering at Palantir and, recently, as Technical Director of Deployment Engineering at a leading Regulatory AI startup, to offer a toolkit and engineering strategy framework for implementing SoTA AI products that serve large-scale, important businesses.
+              I blend my differentiated experience working in Forward Deployed Engineering at Palantir and, recently, as Technical Director of Deployment Engineering at a leading Regulatory AI startup to offer a toolkit and engineering strategy framework for implementing SoTA AI products that serve large-scale, important businesses.
             </p>
 
             <p className={styles.paragraph}>
