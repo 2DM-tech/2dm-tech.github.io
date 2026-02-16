@@ -119,7 +119,7 @@
 /* Responsive Design */
 @media (max-width: 600px) {
   .page {
-    padding: 24px 16px;
+    padding: 16px;
   }
 
   .contentBox {
