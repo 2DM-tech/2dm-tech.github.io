@@ -123,26 +123,47 @@
   }
 
   .contentBox {
-    padding: 32px 24px;
+    padding: 24px 16px;
   }
 
   .main {
-    gap: 32px;
+    gap: 4px;
+  }
+
+  .header {
+    padding-bottom: 16px;
+  }
+
+  .companyInfo {
+    margin-bottom: auto;
+    /* margin-top: auto; */
+    margin-top: 4px;
+  }
+
+  .companyLogo {
+    max-width: min(256px, 85vw);
+  }
+
+  .tagline {
+    font-size: 16px !important;
+    width: 76px;
+    margin-top: auto;
   }
 
   .companyName {
     font-size: 28px;
   }
 
-  .tagline {
-    font-size: 16px;
-  }
 
   .paragraph {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   .linksHeading {
     font-size: 20px;
+  }
+
+  .linksList {
+    font-size: 17px;
   }
 }
