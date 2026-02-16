@@ -127,7 +127,7 @@
   }
 
   .main {
-    gap: 4px;
+    gap: 0px;
   }
 
   .header {
@@ -141,11 +141,11 @@
   }
 
   .companyLogo {
-    max-width: min(260px, 85vw);
+    max-width: min(264px, 85vw);
   }
 
   .tagline {
-    font-size: 16px !important;
+    font-size: 17px !important;
     width: 76px;
     margin-top: auto;
   }
