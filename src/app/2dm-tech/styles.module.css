@@ -119,7 +119,7 @@
 /* Responsive Design */
 @media (max-width: 600px) {
   .page {
-    padding: 24px 16px;
+    padding: 0 16px 24px;
   }
 
   .contentBox {
@@ -141,7 +141,7 @@
   }
 
   .companyLogo {
-    max-width: min(256px, 85vw);
+    max-width: min(260px, 85vw);
   }
 
   .tagline {
