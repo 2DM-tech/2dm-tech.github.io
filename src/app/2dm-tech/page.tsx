@@ -59,9 +59,12 @@ export default function Home() {
               <li>
                 <a href="https://www.noahputnam.computer/decks/Ownership_Culture.pdf" target="_blank" rel="noopener noreferrer">Ownership Culture</a>
               </li>
-              {/* <li>
-                <a href="https://cal.com/noah-putnam/intro-call" target="_blank" rel="noopener noreferrer">Book an intro call</a>
-              </li> */}
+              <li>
+                <a href="https://www.noahputnam.computer/decks/FDE_GenAI.pdf" target="_blank" rel="noopener noreferrer">Ownership Culture</a>
+              </li>
+              <li>
+                <a href="https://calendly.com/comingsoon" target="_blank" rel="noopener noreferrer">Book an intro call</a>
+              </li>
             </ul>
           </div>
         </main>
