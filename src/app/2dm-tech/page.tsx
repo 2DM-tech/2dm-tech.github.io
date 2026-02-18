@@ -50,18 +50,18 @@ export default function Home() {
           <div className={styles.linksSection}>
             <h2 className={styles.linksHeading}>Links</h2>
             <ul className={styles.linksList}>
-              <li>
+              {/* <li>
                 <a href="#">To Align Agents, give them an Ontology</a>
               </li>
               <li>
                 <a href="#">Forward Deployed Engineering in the GenAI Paradigm</a>
-              </li>
+              </li> */}
               <li>
-                <a href="#">Ownership Culture</a>
+                <a href="https://www.noahputnam.computer/decks/Ownership_Culture.pdf" target="_blank" rel="noopener noreferrer">Ownership Culture</a>
               </li>
-              <li>
-                <a href="#">Book an intro call</a>
-              </li>
+              {/* <li>
+                <a href="https://cal.com/noah-putnam/intro-call" target="_blank" rel="noopener noreferrer">Book an intro call</a>
+              </li> */}
             </ul>
           </div>
         </main>
