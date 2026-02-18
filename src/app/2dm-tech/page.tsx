@@ -57,10 +57,10 @@ export default function Home() {
                 <a href="#">Forward Deployed Engineering in the GenAI Paradigm</a>
               </li> */}
               <li>
-                <a href="https://www.noahputnam.computer/decks/Ownership_Culture.pdf" target="_blank" rel="noopener noreferrer">Ownership Culture</a>
+                <a href="https://www.noahputnam.computer/decks/FDE_GenAI.pdf" target="_blank" rel="noopener noreferrer">Forward Deployed Engineering in the GenAI Paradigm</a>
               </li>
               <li>
-                <a href="https://www.noahputnam.computer/decks/FDE_GenAI.pdf" target="_blank" rel="noopener noreferrer">Ownership Culture</a>
+                <a href="https://www.noahputnam.computer/decks/Ownership_Culture.pdf" target="_blank" rel="noopener noreferrer">Ownership Culture</a>
               </li>
               <li>
                 <a href="https://calendly.com/comingsoon" target="_blank" rel="noopener noreferrer">Book an intro call</a>
