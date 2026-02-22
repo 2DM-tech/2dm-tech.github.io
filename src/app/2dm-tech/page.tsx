@@ -63,7 +63,7 @@ export default function Home() {
                 <a href="https://www.noahputnam.computer/decks/Ownership_Culture.pdf" target="_blank" rel="noopener noreferrer">Ownership Culture</a>
               </li>
               <li>
-                <a href="https://calendly.com/comingsoon" target="_blank" rel="noopener noreferrer">Book an intro call</a>
+                <a href="https://calendar.app.google/1mBGZZuhFNe243uV9" target="_blank" rel="noopener noreferrer">Book an intro call</a>
               </li>
             </ul>
           </div>
