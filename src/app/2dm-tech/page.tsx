@@ -46,6 +46,9 @@ export default function Home() {
           <div className={styles.linksSection}>
             <h2 className={styles.linksHeading}>Links</h2>
             <ul className={styles.linksList}>
+              <li>
+                <a href="https://calendar.app.google/1mBGZZuhFNe243uV9" target="_blank" rel="noopener noreferrer">Book an intro call</a>
+              </li>
               {/* <li>
                 <Link href="/ontology">To Align Agents, give them an Ontology</Link>
               </li> */}
@@ -54,9 +57,6 @@ export default function Home() {
               </li>
               <li>
                 <a href="https://www.noahputnam.computer/decks/Ownership_Culture.pdf" target="_blank" rel="noopener noreferrer">Ownership Culture</a>
-              </li>
-              <li>
-                <a href="https://calendar.app.google/1mBGZZuhFNe243uV9" target="_blank" rel="noopener noreferrer">Book an intro call</a>
               </li>
             </ul>
           </div>
