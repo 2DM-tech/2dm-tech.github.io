@@ -7,7 +7,6 @@ export default function Home() {
     <div className={styles.page}>
       <div className={styles.contentBox}>
         <main className={styles.main}>
-          {/* Header Section */}
           <header className={styles.header}>
             <div className={styles.logoContainer}>
               <div className={styles.companyInfo}>
@@ -23,15 +22,13 @@ export default function Home() {
               <p className={styles.tagline}>Be quick, even when standing still!</p>
             </div>
           </header>
-
-          {/* Main Content */}
           <div className={styles.content}>
             <p className={styles.paragraph}>
               Applied AI Consulting for your startup, offered by{" "}
               <a href="https://noahputnam.computer/about" target="_blank" rel="noopener noreferrer">
                 Noah Putnam
               </a>{" ("}
-              <a href="https://linkedin.com/noah-putnam" target="_blank" rel="noopener noreferrer">
+              <a href="https://linkedin.com/in/noah-putnam" target="_blank" rel="noopener noreferrer">
                 LinkedIn
               </a>
               {"). "}
@@ -46,8 +43,6 @@ export default function Home() {
               ). By taking a domain-specific approach to LLM orchestration, Context Engineering allows for the systematic elimination of hallucinations by hyper-personalizing the business logic of your Agents to the exact context of the customer they are serving. I bring the best practices, engineering expertise, and proprietary code ready-to-deploy for my clients to get to the next level of Applied AI for enterprise.
             </p>
           </div>
-
-          {/* Links Section */}
           <div className={styles.linksSection}>
             <h2 className={styles.linksHeading}>Links</h2>
             <ul className={styles.linksList}>

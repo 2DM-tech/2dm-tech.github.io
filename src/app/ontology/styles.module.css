@@ -1,4 +1,19 @@
 .container {
     background: #fdfdfd;
     min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
+
+.content {
+    padding: 64px;
+    margin-left: 88px;
+}
+
+.content h1 {
+    font-family: var(--font-founders-grotesk), sans-serif;
+    font-weight: 500;
+    font-size: 64px;
+    color: #1a1a1a
 }
