@@ -11,7 +11,7 @@ export default function Home() {
             <div className={styles.logoContainer}>
               <div className={styles.companyInfo}>
                 <Image
-                  src="/2dm-logo-new.png"
+                  src="/2dm-logo.png"
                   alt="2DM Technologies"
                   width={205}
                   height={62}
