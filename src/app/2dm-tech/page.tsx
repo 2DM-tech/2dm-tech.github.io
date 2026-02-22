@@ -1,5 +1,6 @@
 import Image from "next/image";
 import styles from "./styles.module.css";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -30,7 +31,7 @@ export default function Home() {
               <a href="https://noahputnam.computer/about" target="_blank" rel="noopener noreferrer">
                 Noah Putnam
               </a>{" ("}
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://linkedin.com/noah-putnam" target="_blank" rel="noopener noreferrer">
                 LinkedIn
               </a>
               {"). "}
@@ -51,10 +52,7 @@ export default function Home() {
             <h2 className={styles.linksHeading}>Links</h2>
             <ul className={styles.linksList}>
               {/* <li>
-                <a href="#">To Align Agents, give them an Ontology</a>
-              </li>
-              <li>
-                <a href="#">Forward Deployed Engineering in the GenAI Paradigm</a>
+                <Link href="/ontology">To Align Agents, give them an Ontology</Link>
               </li> */}
               <li>
                 <a href="https://www.noahputnam.computer/decks/FDE_GenAI.pdf" target="_blank" rel="noopener noreferrer">Forward Deployed Engineering in the GenAI Paradigm</a>
